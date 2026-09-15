@@ -15,8 +15,8 @@ page_header:
   button_dark: null
   badge: About Us
 who_we_are:
-  title: We are Pioneering the Future of Al Search Revolution
-  badge: Who We Are
+  title: We are Pioneering the Future of Al Search Revolution !!
+  badge: Who We Are!
   subtitle: >
     We deliver innovative tools and expert support to help individuals and
     businesses achieve financial goals and long-term success.
