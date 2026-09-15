@@ -3,7 +3,7 @@ title: "About Us"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/image-placeholder.png"
-draft: true
+draft: false
 page_header:
   title: |
     We Manage Your Online
